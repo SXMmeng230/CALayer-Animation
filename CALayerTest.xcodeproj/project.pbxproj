@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA0FAE8020FF1A1E00882894 /* TestIBView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA0FAE7F20FF1A1E00882894 /* TestIBView.m */; };
+		AA0FAE8220FF1A2700882894 /* TestIBView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA0FAE8120FF1A2700882894 /* TestIBView.xib */; };
+		AA0FAE8620FF240400882894 /* CALayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA0FAE8420FF240400882894 /* CALayerViewController.m */; };
+		AA0FAE8720FF240400882894 /* CALayerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA0FAE8520FF240400882894 /* CALayerViewController.xib */; };
+		AA1850A921006C2C003B02B5 /* MaskViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850A721006C2C003B02B5 /* MaskViewViewController.m */; };
+		AA1850AA21006C2C003B02B5 /* MaskViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1850A821006C2C003B02B5 /* MaskViewViewController.xib */; };
+		AA1850AD21007F1E003B02B5 /* WaterProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850AC21007F1E003B02B5 /* WaterProgressView.m */; };
+		AA1850B1210080DB003B02B5 /* WaterProgressViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850AF210080DB003B02B5 /* WaterProgressViewController.m */; };
+		AA1850B2210080DB003B02B5 /* WaterProgressViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1850B0210080DB003B02B5 /* WaterProgressViewController.xib */; };
+		AA1850B521008B7D003B02B5 /* HollowOutView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850B421008B7D003B02B5 /* HollowOutView.m */; };
+		AA1850B82101751A003B02B5 /* ReplicatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850B72101751A003B02B5 /* ReplicatorViewController.m */; };
+		AA1850BC21018757003B02B5 /* CAEmitterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850BA21018757003B02B5 /* CAEmitterViewController.m */; };
+		AA1850BD21018757003B02B5 /* CAEmitterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1850BB21018757003B02B5 /* CAEmitterViewController.xib */; };
+		AA1850C12101CBF2003B02B5 /* CAGradientViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1850BF2101CBF2003B02B5 /* CAGradientViewController.m */; };
+		AA1850C22101CBF2003B02B5 /* CAGradientViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1850C02101CBF2003B02B5 /* CAGradientViewController.xib */; };
+		AA1851FD2109AE2D003B02B5 /* WaterWaveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA1851FB2109AE2D003B02B5 /* WaterWaveViewController.m */; };
+		AA1851FE2109AE2D003B02B5 /* WaterWaveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1851FC2109AE2D003B02B5 /* WaterWaveViewController.xib */; };
+		AA185206210B0741003B02B5 /* WaterWaveView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA185205210B0741003B02B5 /* WaterWaveView.m */; };
 		AAD0C0E520FD905A00943CB8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C0E420FD905A00943CB8 /* AppDelegate.m */; };
 		AAD0C0E820FD905A00943CB8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C0E720FD905A00943CB8 /* ViewController.m */; };
 		AAD0C0EB20FD905A00943CB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAD0C0E920FD905A00943CB8 /* Main.storyboard */; };
@@ -15,6 +33,12 @@
 		AAD0C0F320FD905C00943CB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C0F220FD905C00943CB8 /* main.m */; };
 		AAD0C0FD20FD905C00943CB8 /* CALayerTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C0FC20FD905C00943CB8 /* CALayerTestTests.m */; };
 		AAD0C10820FD905C00943CB8 /* CALayerTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C10720FD905C00943CB8 /* CALayerTestUITests.m */; };
+		AAD0C11720FD91A400943CB8 /* BezierPathViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C11620FD91A400943CB8 /* BezierPathViewController.m */; };
+		AAD0C11A20FD93A600943CB8 /* BezierView.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C11920FD93A600943CB8 /* BezierView.m */; };
+		AAD0C11D20FDF13400943CB8 /* PieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C11C20FDF13400943CB8 /* PieChartView.m */; };
+		AAD0C12020FED35100943CB8 /* ProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C11F20FED35100943CB8 /* ProgressView.m */; };
+		AAD0C12420FED55400943CB8 /* ProgressViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD0C12220FED55400943CB8 /* ProgressViewController.m */; };
+		AAD0C12520FED55400943CB8 /* ProgressViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAD0C12320FED55400943CB8 /* ProgressViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +59,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA0FAE7E20FF1A1E00882894 /* TestIBView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestIBView.h; sourceTree = "<group>"; };
+		AA0FAE7F20FF1A1E00882894 /* TestIBView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestIBView.m; sourceTree = "<group>"; };
+		AA0FAE8120FF1A2700882894 /* TestIBView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestIBView.xib; sourceTree = "<group>"; };
+		AA0FAE8320FF240400882894 /* CALayerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CALayerViewController.h; sourceTree = "<group>"; };
+		AA0FAE8420FF240400882894 /* CALayerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayerViewController.m; sourceTree = "<group>"; };
+		AA0FAE8520FF240400882894 /* CALayerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CALayerViewController.xib; sourceTree = "<group>"; };
+		AA1850A621006C2C003B02B5 /* MaskViewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MaskViewViewController.h; sourceTree = "<group>"; };
+		AA1850A721006C2C003B02B5 /* MaskViewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MaskViewViewController.m; sourceTree = "<group>"; };
+		AA1850A821006C2C003B02B5 /* MaskViewViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MaskViewViewController.xib; sourceTree = "<group>"; };
+		AA1850AB21007F1E003B02B5 /* WaterProgressView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WaterProgressView.h; sourceTree = "<group>"; };
+		AA1850AC21007F1E003B02B5 /* WaterProgressView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WaterProgressView.m; sourceTree = "<group>"; };
+		AA1850AE210080DB003B02B5 /* WaterProgressViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WaterProgressViewController.h; sourceTree = "<group>"; };
+		AA1850AF210080DB003B02B5 /* WaterProgressViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WaterProgressViewController.m; sourceTree = "<group>"; };
+		AA1850B0210080DB003B02B5 /* WaterProgressViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WaterProgressViewController.xib; sourceTree = "<group>"; };
+		AA1850B321008B7D003B02B5 /* HollowOutView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HollowOutView.h; sourceTree = "<group>"; };
+		AA1850B421008B7D003B02B5 /* HollowOutView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HollowOutView.m; sourceTree = "<group>"; };
+		AA1850B62101751A003B02B5 /* ReplicatorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReplicatorViewController.h; sourceTree = "<group>"; };
+		AA1850B72101751A003B02B5 /* ReplicatorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReplicatorViewController.m; sourceTree = "<group>"; };
+		AA1850B921018757003B02B5 /* CAEmitterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAEmitterViewController.h; sourceTree = "<group>"; };
+		AA1850BA21018757003B02B5 /* CAEmitterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAEmitterViewController.m; sourceTree = "<group>"; };
+		AA1850BB21018757003B02B5 /* CAEmitterViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CAEmitterViewController.xib; sourceTree = "<group>"; };
+		AA1850BE2101CBF2003B02B5 /* CAGradientViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAGradientViewController.h; sourceTree = "<group>"; };
+		AA1850BF2101CBF2003B02B5 /* CAGradientViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAGradientViewController.m; sourceTree = "<group>"; };
+		AA1850C02101CBF2003B02B5 /* CAGradientViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CAGradientViewController.xib; sourceTree = "<group>"; };
+		AA1851FA2109AE2D003B02B5 /* WaterWaveViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WaterWaveViewController.h; sourceTree = "<group>"; };
+		AA1851FB2109AE2D003B02B5 /* WaterWaveViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WaterWaveViewController.m; sourceTree = "<group>"; };
+		AA1851FC2109AE2D003B02B5 /* WaterWaveViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WaterWaveViewController.xib; sourceTree = "<group>"; };
+		AA185204210B0741003B02B5 /* WaterWaveView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WaterWaveView.h; sourceTree = "<group>"; };
+		AA185205210B0741003B02B5 /* WaterWaveView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WaterWaveView.m; sourceTree = "<group>"; };
 		AAD0C0E020FD905A00943CB8 /* CALayerTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CALayerTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD0C0E320FD905A00943CB8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AAD0C0E420FD905A00943CB8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +104,17 @@
 		AAD0C10320FD905C00943CB8 /* CALayerTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CALayerTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD0C10720FD905C00943CB8 /* CALayerTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CALayerTestUITests.m; sourceTree = "<group>"; };
 		AAD0C10920FD905C00943CB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAD0C11520FD91A400943CB8 /* BezierPathViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BezierPathViewController.h; sourceTree = "<group>"; };
+		AAD0C11620FD91A400943CB8 /* BezierPathViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BezierPathViewController.m; sourceTree = "<group>"; };
+		AAD0C11820FD93A600943CB8 /* BezierView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BezierView.h; sourceTree = "<group>"; };
+		AAD0C11920FD93A600943CB8 /* BezierView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BezierView.m; sourceTree = "<group>"; };
+		AAD0C11B20FDF13400943CB8 /* PieChartView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PieChartView.h; sourceTree = "<group>"; };
+		AAD0C11C20FDF13400943CB8 /* PieChartView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PieChartView.m; sourceTree = "<group>"; };
+		AAD0C11E20FED35100943CB8 /* ProgressView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProgressView.h; sourceTree = "<group>"; };
+		AAD0C11F20FED35100943CB8 /* ProgressView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProgressView.m; sourceTree = "<group>"; };
+		AAD0C12120FED55400943CB8 /* ProgressViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProgressViewController.h; sourceTree = "<group>"; };
+		AAD0C12220FED55400943CB8 /* ProgressViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProgressViewController.m; sourceTree = "<group>"; };
+		AAD0C12320FED55400943CB8 /* ProgressViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProgressViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +169,46 @@
 				AAD0C0E420FD905A00943CB8 /* AppDelegate.m */,
 				AAD0C0E620FD905A00943CB8 /* ViewController.h */,
 				AAD0C0E720FD905A00943CB8 /* ViewController.m */,
+				AAD0C11520FD91A400943CB8 /* BezierPathViewController.h */,
+				AAD0C11620FD91A400943CB8 /* BezierPathViewController.m */,
+				AAD0C12120FED55400943CB8 /* ProgressViewController.h */,
+				AAD0C12220FED55400943CB8 /* ProgressViewController.m */,
+				AAD0C12320FED55400943CB8 /* ProgressViewController.xib */,
+				AA0FAE8320FF240400882894 /* CALayerViewController.h */,
+				AA0FAE8420FF240400882894 /* CALayerViewController.m */,
+				AA0FAE8520FF240400882894 /* CALayerViewController.xib */,
+				AA1850A621006C2C003B02B5 /* MaskViewViewController.h */,
+				AA1850A721006C2C003B02B5 /* MaskViewViewController.m */,
+				AA1850A821006C2C003B02B5 /* MaskViewViewController.xib */,
+				AA1850AE210080DB003B02B5 /* WaterProgressViewController.h */,
+				AA1850AF210080DB003B02B5 /* WaterProgressViewController.m */,
+				AA1850B0210080DB003B02B5 /* WaterProgressViewController.xib */,
+				AA1850B62101751A003B02B5 /* ReplicatorViewController.h */,
+				AA1850B72101751A003B02B5 /* ReplicatorViewController.m */,
+				AA1850B921018757003B02B5 /* CAEmitterViewController.h */,
+				AA1850BA21018757003B02B5 /* CAEmitterViewController.m */,
+				AA1850BB21018757003B02B5 /* CAEmitterViewController.xib */,
+				AA1850BE2101CBF2003B02B5 /* CAGradientViewController.h */,
+				AA1850BF2101CBF2003B02B5 /* CAGradientViewController.m */,
+				AA1850C02101CBF2003B02B5 /* CAGradientViewController.xib */,
+				AA1851FA2109AE2D003B02B5 /* WaterWaveViewController.h */,
+				AA1851FB2109AE2D003B02B5 /* WaterWaveViewController.m */,
+				AA1851FC2109AE2D003B02B5 /* WaterWaveViewController.xib */,
+				AA185204210B0741003B02B5 /* WaterWaveView.h */,
+				AA185205210B0741003B02B5 /* WaterWaveView.m */,
+				AAD0C11820FD93A600943CB8 /* BezierView.h */,
+				AAD0C11920FD93A600943CB8 /* BezierView.m */,
+				AAD0C11B20FDF13400943CB8 /* PieChartView.h */,
+				AAD0C11C20FDF13400943CB8 /* PieChartView.m */,
+				AAD0C11E20FED35100943CB8 /* ProgressView.h */,
+				AAD0C11F20FED35100943CB8 /* ProgressView.m */,
+				AA1850AB21007F1E003B02B5 /* WaterProgressView.h */,
+				AA1850AC21007F1E003B02B5 /* WaterProgressView.m */,
+				AA1850B321008B7D003B02B5 /* HollowOutView.h */,
+				AA1850B421008B7D003B02B5 /* HollowOutView.m */,
+				AA0FAE7E20FF1A1E00882894 /* TestIBView.h */,
+				AA0FAE7F20FF1A1E00882894 /* TestIBView.m */,
+				AA0FAE8120FF1A2700882894 /* TestIBView.xib */,
 				AAD0C0E920FD905A00943CB8 /* Main.storyboard */,
 				AAD0C0EC20FD905C00943CB8 /* Assets.xcassets */,
 				AAD0C0EE20FD905C00943CB8 /* LaunchScreen.storyboard */,
@@ -235,9 +339,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA1850BD21018757003B02B5 /* CAEmitterViewController.xib in Resources */,
 				AAD0C0F020FD905C00943CB8 /* LaunchScreen.storyboard in Resources */,
 				AAD0C0ED20FD905C00943CB8 /* Assets.xcassets in Resources */,
+				AA0FAE8720FF240400882894 /* CALayerViewController.xib in Resources */,
+				AA1850C22101CBF2003B02B5 /* CAGradientViewController.xib in Resources */,
 				AAD0C0EB20FD905A00943CB8 /* Main.storyboard in Resources */,
+				AA1851FE2109AE2D003B02B5 /* WaterWaveViewController.xib in Resources */,
+				AA1850AA21006C2C003B02B5 /* MaskViewViewController.xib in Resources */,
+				AA0FAE8220FF1A2700882894 /* TestIBView.xib in Resources */,
+				AAD0C12520FED55400943CB8 /* ProgressViewController.xib in Resources */,
+				AA1850B2210080DB003B02B5 /* WaterProgressViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +375,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAD0C0E820FD905A00943CB8 /* ViewController.m in Sources */,
+				AA1850BC21018757003B02B5 /* CAEmitterViewController.m in Sources */,
+				AA1850B82101751A003B02B5 /* ReplicatorViewController.m in Sources */,
+				AA0FAE8020FF1A1E00882894 /* TestIBView.m in Sources */,
+				AA1850C12101CBF2003B02B5 /* CAGradientViewController.m in Sources */,
+				AA1850B521008B7D003B02B5 /* HollowOutView.m in Sources */,
 				AAD0C0F320FD905C00943CB8 /* main.m in Sources */,
+				AAD0C11D20FDF13400943CB8 /* PieChartView.m in Sources */,
+				AA1850A921006C2C003B02B5 /* MaskViewViewController.m in Sources */,
+				AA1851FD2109AE2D003B02B5 /* WaterWaveViewController.m in Sources */,
+				AAD0C11A20FD93A600943CB8 /* BezierView.m in Sources */,
+				AAD0C11720FD91A400943CB8 /* BezierPathViewController.m in Sources */,
+				AAD0C12020FED35100943CB8 /* ProgressView.m in Sources */,
 				AAD0C0E520FD905A00943CB8 /* AppDelegate.m in Sources */,
+				AA1850AD21007F1E003B02B5 /* WaterProgressView.m in Sources */,
+				AA0FAE8620FF240400882894 /* CALayerViewController.m in Sources */,
+				AA185206210B0741003B02B5 /* WaterWaveView.m in Sources */,
+				AAD0C12420FED55400943CB8 /* ProgressViewController.m in Sources */,
+				AA1850B1210080DB003B02B5 /* WaterProgressViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,7 +561,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GL9AG8X36B;
 				INFOPLIST_FILE = CALayerTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -441,6 +571,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = www.CALayerTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -449,7 +580,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GL9AG8X36B;
 				INFOPLIST_FILE = CALayerTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -457,6 +590,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = www.CALayerTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
